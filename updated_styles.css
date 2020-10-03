@@ -1,0 +1,131 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Lexend Peta', sans-serif;
+  color: black;
+}
+.top_container{
+  background-color:#F1F3F8;
+  margin-bottom: 0;
+  padding-top: 100px;
+  position: relative;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+p{
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+.middle-container{
+margin-bottom: 50px;
+}
+.bottom-container{
+   background-color:#66BFBF;
+   padding: 50px 0 20px;
+}
+.dev{
+   text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+}
+.p{
+  color: red;
+  font-weight: normal;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cplus{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.front-end{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: thick;
+  border-color: gray;
+  width: 3%;
+}
+.margin{
+margin-top: 100px;
+}
+.pmargin{
+  margin-bottom: 100px;
+  width: 60%;
+  margin: 0 auto 100px auto;
+}
+
+.footer-link{
+  margin-top: 100px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+.classname {
+	background-color:#44c767;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:47px;
+	line-height:47px;
+width:131px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.classname:hover {
+	background-color:#84d957;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
